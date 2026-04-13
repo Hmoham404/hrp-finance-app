@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HRP Finance App
 
 ## Overview
@@ -89,3 +90,7 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details."# hrp-finance-app" 
+=======
+"# hrp-finance-app" 
+>>>>>>> 0afcc4810d21a5705d67038cdd19d924ba3839d4
+"# hrp-finance-app22" 
